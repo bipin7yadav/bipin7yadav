@@ -4,7 +4,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <h1 align="center">I'm Bipin Yadav</h1>
-<h3 align="center">Aspiring Web App Developer</h3>
+<h3 align="center">Web App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bipin7yadav&label=Profile%20views&color=0e75b6&style=flat" alt="bipin7yadav" /> </p>
 
