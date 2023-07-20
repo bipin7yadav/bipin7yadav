@@ -27,8 +27,8 @@
 
 
 <div display="flex" justifyContent="space-between">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bipin7yadav&show_icons=true&locale=en" alt="bipin7yadav" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin7yadav&" alt="bipin7yadav" />
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=bipin7yadav&show_icons=true&locale=en" alt="bipin7yadav" />
+  <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin7yadav&" alt="bipin7yadav" />
 </div>
 <!-- <p align="start">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bipin7yadav&show_icons=true&locale=en" alt="bipin7yadav" /></p>
 
