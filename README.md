@@ -35,5 +35,5 @@
 <p align="end"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bipin7yadav&" alt="bipin7yadav" /></p> -->
 
 ### BZN
-- :paperclip: [My Resume/CV](https://rxresu.me/bipin7yadav/frotend-developer-resume)
+- :paperclip: [My Resume/CV](https://bipinyadav.vercel.app/resume.pdf)
 
